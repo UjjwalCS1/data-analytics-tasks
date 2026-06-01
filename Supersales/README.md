@@ -251,5 +251,4 @@ The Superstore Sales Performance Dashboard provides a comprehensive view of busi
 **Ujjwal Kumar**
 
 Power BI Dashboard Project – Superstore Sales Analysis
-
-Source Data & Presentation: :contentReference[oaicite:0]{index=0}
+}
